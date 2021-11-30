@@ -1,3 +1,5 @@
-# App_Regression_Interactive
+# App Regression Interactive
 Web application codes for linear regression analysis developed in Shiny
-a(" o github", href="https://github.com/Fagna/App_Regression_Interactive.git", target="_blank")
+
+# Application
+[Interactive Linear Regression Analysis](https://mariafagna17.shinyapps.io/regressao_linear/")
