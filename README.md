@@ -1,4 +1,4 @@
-# App Regression Interactive
+# Regressão interativa
 Web application codes for linear regression analysis developed in Shiny
 
 #  Aplicativo
