@@ -1,5 +1,5 @@
-# Regressão interativa
+# Interactive Regression
 Web application codes for linear regression analysis developed in Shiny
 
-#  Aplicativo
+# Application
 [Interactive Linear Regression Analysis](https://mariafagna17.shinyapps.io/regressao_linear/)
