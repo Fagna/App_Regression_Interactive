@@ -101,7 +101,7 @@ shinyUI(fluidPage(
                             plotOutput("plot1",height = 400, width=600),
                             h5(strong("Ajuste do modelo")),
                             verbatimTextOutput("modelor"),
-                            h5(strong("Análise de variância (ANOVA)")),
+                            h5(strong("Resumo do ajuste do modelo")),
                             h6("O modelo é significativo quando apresenta um p < 0.05"),
                             verbatimTextOutput("anov")),
                    
