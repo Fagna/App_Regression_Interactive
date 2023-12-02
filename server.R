@@ -56,7 +56,7 @@ shinyServer(function(input, output) {
 
   output$anov <- renderPrint({
     avn <- datasetInput()
-    anova(lm(avn))
+    summary(lm(avn))
   })
   
   output$plote <- renderPlot({
